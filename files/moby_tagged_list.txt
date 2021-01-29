@@ -1,0 +1,1 @@
+[('He', 'PRP'), ('loved', 'VBD'), ('to', 'TO'), ('dust', 'VB'), ('his', 'PRP$'), ('old', 'JJ'), ('grammars', 'NNS'), (';', ':'), ('it', 'PRP'), ('somehow', 'VBZ'), ('mildly', 'RB'), ('reminded', 'VBD'), ('him', 'PRP'), ('of', 'IN'), ('his', 'PRP$'), ('mortality', 'NN'), ('.', '.')]
